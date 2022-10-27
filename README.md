@@ -7,8 +7,6 @@ For example generating new Naruto face from text:
 
 <img src="./assets/outputv2_grid.png" alt="drawing" width="600"/>
 
-> Obama, Donald Trump, Joe Biden
+> "Bill Gates with a hoodie", "John Oliver with Naruto style", "Hello Kitty with Naruto style", "Lebron James with a hat", "Mickael Jackson as a ninja", "Banksy Street art of ninja"
 
 For a step by step guide see the [Lambda Labs examples repo](https://github.com/LambdaLabsML/examples).
-
-test
