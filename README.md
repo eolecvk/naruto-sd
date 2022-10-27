@@ -1,7 +1,7 @@
 # Experiments with Stable Diffusion
 
 This repository is a fork of Justin Pinkney's stable diffusion repository.  
-It presents the use case of fine-tuning a text2image stable diffusion model with a BLIP captioned naruto face dataset.
+It presents the use case of fine-tuning a text2image stable diffusion model with a [BLIP captioned naruto face dataset](https://huggingface.co/datasets/lambdalabs/naruto-blip-captions).
 
 For example generating new Naruto face from text:
 
