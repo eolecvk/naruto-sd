@@ -11,7 +11,7 @@ In this case, we generate Naruto style images from a text prompt:
 
 > "Bill Gates with a hoodie", "John Oliver with Naruto style", "Hello Kitty with Naruto style", "Lebron James with a hat", "Mickael Jackson as a ninja", "Banksy Street art of ninja"
 
-For a step by step guide see the [Lambda Labs examples repo](https://github.com/LambdaLabsML/examples).
+For a step by step guide on training the stable diffusion model see the [Lambda Labs examples repo](https://github.com/LambdaLabsML/examples).
 
 
 ## Usage
