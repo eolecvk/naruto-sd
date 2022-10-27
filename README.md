@@ -2,8 +2,7 @@
 
 This repository is a fork of [Justin Pinkney's stable diffusion repository](https://github.com/justinpinkney/stable-diffusion).
 
-It presents the use case of fine-tuning a text2image stable diffusion model with a [BLIP captioned naruto face dataset](https://huggingface.co/datasets/lambdalabs/naruto-blip-captions).
-
+It presents the use case of fine-tuning a text2image stable diffusion model with a [BLIP captioned naruto face dataset](https://huggingface.co/datasets/lambdalabs/naruto-blip-captions).  
 In this case, we generate Naruto style images from a text prompt:
 
 <img src="./assets/outputv2_grid.png" alt="drawing" width="600"/>
