@@ -5,7 +5,7 @@ It presents the use case of fine-tuning a text2image stable diffusion model with
 
 For example generating new Naruto face from text:
 
-<img src="./assets/naruto2-grid-output.png" alt="drawing" width="600"/>
+<img src="./assets/outputv2_grid.png" alt="drawing" width="600"/>
 
 > Obama, Donald Trump, Joe Biden
 
